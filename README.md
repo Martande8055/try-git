@@ -1,8 +1,6 @@
 In RH try-git
 
-hiihi
-s
-m
+hii
 111111111111111
 dfaf
 sdad
