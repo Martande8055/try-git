@@ -9,6 +9,9 @@ aasdfa
 
 func add(){
 adadsfaa
+
+sdfdsf
+sdfdsf
 }
 
 func mul(){
